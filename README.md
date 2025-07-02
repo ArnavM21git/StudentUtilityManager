@@ -87,6 +87,7 @@ graph TD
     C --> F[Clock Utility]
     D --> G[Word Replacer]
 ```
+---
 
 ## 🚀 Quick Start
 
@@ -100,6 +101,7 @@ javac studenttools/StudentAssistantApp.java
 java studenttools.StudentAssistantApp
 ```
 
+---
 
 ## 📂 Project Structure
 

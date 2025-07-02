@@ -80,3 +80,15 @@ graph TD
     B --> E[Event Handling]
     C --> F[Clock Utility]
     D --> G[Word Replacer]
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/ArnavM21git/StudentUtilityManager.git
+
+# Compile and run
+cd StudentUtilityManager
+javac studenttools/StudentAssistantApp.java
+java studenttools.StudentAssistantApp
+```

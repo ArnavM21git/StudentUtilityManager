@@ -71,12 +71,12 @@
   </tr>
 </table>
 
-
+---
 
 
 ## 🛠️ Tech Stack
 
----
+
 
 ```mermaid
 graph TD

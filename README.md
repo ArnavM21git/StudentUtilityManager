@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Application+Screenshot" alt="App Screenshot" width="80%">
+ 
 </div>
 
 ## 🌟 Features

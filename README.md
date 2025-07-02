@@ -11,9 +11,9 @@
 
 <br>
 
-
+---
 ## 🌟 Features
-
+---
 
 
 <table>
@@ -70,8 +70,12 @@
     </td>
   </tr>
 </table>
+
+
 ---
+
 ## 🛠️ Tech Stack
+
 ---
 
 ```mermaid

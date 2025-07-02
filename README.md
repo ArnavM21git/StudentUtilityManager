@@ -80,6 +80,7 @@ graph TD
     B --> E[Event Handling]
     C --> F[Clock Utility]
     D --> G[Word Replacer]
+```
 
 ## 🚀 Quick Start
 

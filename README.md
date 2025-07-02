@@ -12,8 +12,9 @@
 <br>
 
 
-
+---
 ## 🌟 Features
+---
 
 <table>
   <tr>
@@ -69,8 +70,9 @@
     </td>
   </tr>
 </table>
-
+---
 ## 🛠️ Tech Stack
+---
 
 ```mermaid
 graph TD
@@ -92,4 +94,18 @@ git clone https://github.com/ArnavM21git/StudentUtilityManager.git
 cd StudentUtilityManager
 javac studenttools/StudentAssistantApp.java
 java studenttools.StudentAssistantApp
+```
+
+
+## 📂 Project Structure
+
+```
+src/
+├── studenttools/
+│   ├── MainFrames/
+│   ├── Utilities/
+│   └── Clock/
+├── CalculatorFrame.java
+├── GPAFrame.java
+└── ...
 ```

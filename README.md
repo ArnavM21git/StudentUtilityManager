@@ -2,12 +2,12 @@
   <h1>🎓 Student Utility Manager</h1>
   <p>A comprehensive Java Swing application with multiple academic utilities</p>
   
-  <div>
-    <img src="https://img.shields.io/badge/Java-17-blue?logo=java" alt="Java 17">
+  
+  <img src="https://img.shields.io/badge/Java-17-blue?logo=java" alt="Java 17">
     <img src="https://img.shields.io/badge/GUI-Swing-orange?logo=swing" alt="Swing GUI">
     <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
   </div>
-</div>
+
 
 <br>
 
